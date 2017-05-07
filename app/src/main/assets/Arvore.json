@@ -1,27 +1,27 @@
 {
-  "elements": [
+  "tipos": [
     {
-      "nome": "veiculo de transporte",
+      "nome": "veículo de transporte",
       "min": "1",
       "max":"12"
     },
     {
-      "nome": "veiculo terrestre",
+      "nome": "veículo terrestre",
       "min": "2",
       "max":"5"
     },
     {
-      "nome": "veiculo maritimo",
+      "nome": "veículo marítimo",
       "min": "6",
       "max":"8"
     },
     {
-      "nome": "veiculo aereo",
+      "nome": "veículo aéreo",
       "min": "9",
       "max":"12"
     },
     {
-      "nome": "automovel",
+      "nome": "automóvel",
       "min": "3",
       "max":"3"
     },
@@ -29,7 +29,98 @@
       "nome": "barco",
       "min": "7",
       "max":"7"
+    },
+    {
+      "nome": "caminhão",
+      "min": "4",
+      "max": "4"
+    },
+    {
+      "nome": "ônibus",
+      "min": "5",
+      "max": "5"
+    },
+    {
+      "nome": "veleiro",
+      "min": "8",
+      "max": "8"
+    },
+    {
+      "nome": "avião",
+      "min": "10",
+      "max": "10"
+    },
+    {
+      "nome": "jato",
+      "min": "11",
+      "max": "11"
+    },
+    {
+      "nome": "helicoptero",
+      "min": "12",
+      "max": "12"
     }
-
+  ],
+  "partes": [
+    {
+      "nome": "automóvel",
+      "min": "1",
+      "max": "12"
+    },
+    {
+      "nome": "carroceria",
+      "min": "2",
+      "max": "4"
+    },
+    {
+      "nome": "porta",
+      "min": "3",
+      "max": "3"
+    },
+    {
+      "nome": "teto",
+      "min": "4",
+      "max": "4"
+    },
+    {
+      "nome": "motor",
+      "min": "5",
+      "max": "9"
+    },
+    {
+      "nome": "bloco",
+      "min": "6",
+      "max": "6"
+    },
+    {
+      "nome": "cilindros",
+      "min": "7",
+      "max": "9"
+    },
+    {
+      "nome": "pistão",
+      "min": "8",
+      "max": "8"
+    },
+    {
+      "nome": "anéis",
+      "min": "9",
+      "max": "9"
+    },
+    {
+      "nome": "suspensão",
+      "min": "10",
+      "max": "12"
+    },
+    {
+      "nome": "roda",
+      "min": "11",
+      "max": "11"
+    },
+    {
+      "nome": "pneu",
+      "min": "12",
+      "max": "12"
+    }
   ]
 }
